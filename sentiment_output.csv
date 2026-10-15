@@ -1,0 +1,49 @@
+id,date,source_type,tagged_keyword,text,true_label,sentiment_label,sentiment_score,escalation_level
+1,2023-10-01,supplier_email,wheat,Invoice #402 for wheat delivery processed successfully.,NEUTRAL,POSITIVE,0.8539,Normal
+101,2023-10-01,news_article,wheat,Global wheat market commodity prices drop sharply due to record bumper harvests.,POSITIVE,NEGATIVE,0.9732,Watch
+2,2023-10-02,supplier_email,wheat,Bumper harvest for wheat means early delivery next week at contracted rate!,POSITIVE,NEGATIVE,0.7273,High
+102,2023-10-02,news_article,sugar,"Energy grid failures hit major regional sugar producers, halting refining.",NEGATIVE,NEGATIVE,0.9485,Watch
+3,2023-10-03,supplier_email,wheat,"Severe drought hitting wheat farms in Midwest, expect potential dispatch delays.",NEGATIVE,NEGATIVE,0.9466,High
+4,2023-10-03,supplier_email,cereal,Routine delivery scheduling for cereal shipments to regional distribution center.,NEUTRAL,NEUTRAL,0.9229,Normal
+103,2023-10-03,news_article,cereal,"Breakfast cereal market demand remains stable this quarter, analysts report.",NEUTRAL,POSITIVE,0.9486,Normal
+5,2023-10-04,supplier_email,wheat,"Severe drought continues across agricultural belt, wheat shipments canceled.",NEGATIVE,NEGATIVE,0.9647,High
+104,2023-10-04,news_article,packaging,Breakthrough innovations in biodegradable packaging reduce manufacturer costs by 15%.,POSITIVE,POSITIVE,0.9371,Normal
+6,2023-10-05,supplier_email,sugar,"Sugar refinery operations resumed, all machinery back to normal capacity.",POSITIVE,POSITIVE,0.7118,Normal
+7,2023-10-05,supplier_email,sugar,Energy grid failures at sugar refineries causing massive order backlog.,NEGATIVE,NEGATIVE,0.963,Watch
+105,2023-10-05,news_article,wheat,Severe drought conditions in key wheat-producing regions threaten winter supply.,NEGATIVE,NEGATIVE,0.9603,High
+8,2023-10-06,supplier_email,packaging,"Packaging shortages mitigated, primary corrugated supplier onboarded successfully.",POSITIVE,POSITIVE,0.9477,Normal
+106,2023-10-06,news_article,wheat,"Severe drought worsens across grain belt, wheat harvest yields plummet to historical lows.",NEGATIVE,NEGATIVE,0.967,High
+9,2023-10-07,supplier_email,packaging,Rising pulp packaging costs severely affecting operating margins this quarter.,NEGATIVE,NEGATIVE,0.9723,Watch
+107,2023-10-07,news_article,sugar,Sugar refineries invest in on-site solar energy to insulate against grid outages.,POSITIVE,NEUTRAL,0.8731,Normal
+10,2023-10-08,supplier_email,"cereal, packaging",Cereal bulk packaging dispatch remains strictly on schedule.,NEUTRAL,NEUTRAL,0.605,Normal
+11,2023-10-08,supplier_email,wheat,Annual wheat contract negotiations resolved favorably with guaranteed volumes.,POSITIVE,POSITIVE,0.9466,Normal
+108,2023-10-08,news_article,packaging,Surging pulp packaging costs place severe strain on food manufacturing supply chains.,NEGATIVE,NEGATIVE,0.9641,High
+13,2023-10-10,supplier_email,sugar,Port strikes affecting sugar container shipments and export terminals.,NEGATIVE,NEGATIVE,0.9512,Watch
+110,2023-10-10,news_article,cereal,Top cereal manufacturers announce consumer price cuts amid grain surplus.,POSITIVE,NEGATIVE,0.9238,Watch
+15,2023-10-11,supplier_email,packaging,Scheduled delivery of packaging materials confirmed for warehouse bay 4.,NEUTRAL,NEUTRAL,0.8522,Normal
+111,2023-10-11,news_article,sugar,Nationwide dock strikes threaten to paralyze key sugar import and distribution corridors.,NEGATIVE,NEGATIVE,0.9598,High
+16,2023-10-12,supplier_email,sugar,"Port strikes continue unabated, sugar raw deliveries delayed indefinitely.",NEGATIVE,NEGATIVE,0.9532,High
+112,2023-10-12,news_article,sugar,"Prolonged port strikes shut down maritime freight terminals, halting international sugar trade.",NEGATIVE,NEGATIVE,0.9544,High
+17,2023-10-13,supplier_email,cereal,New organic cereal recipe approved for commercial production and distribution.,POSITIVE,NEUTRAL,0.5829,Normal
+113,2023-10-13,news_article,packaging,Leading consumer brands transition toward lightweight sustainable packaging solutions.,POSITIVE,POSITIVE,0.6144,Normal
+18,2023-10-14,supplier_email,wheat,Wheat harvest yield significantly better than initial pessimistic forecasts.,POSITIVE,POSITIVE,0.9425,Normal
+19,2023-10-15,supplier_email,packaging,Secondary packaging cardboard costs stabilizing after supplier renegotiation.,POSITIVE,POSITIVE,0.8619,Normal
+115,2023-10-15,news_article,wheat,Chicago Board of Trade reports wheat futures stabilize following week of high volatility.,NEUTRAL,NEGATIVE,0.8797,Watch
+20,2023-10-16,supplier_email,sugar,Routine quality laboratory inspection for refined sugar passed with zero defects.,NEUTRAL,POSITIVE,0.5784,Normal
+116,2023-10-16,news_article,cereal,Ready-to-eat cereal sales surge in retail grocery channels across metropolitan zones.,POSITIVE,POSITIVE,0.7002,Normal
+21,2023-10-17,supplier_email,cereal,Cereal raw ingredient shortage causing a 48-hour plant stoppage.,NEGATIVE,NEGATIVE,0.9645,Watch
+117,2023-10-17,news_article,sugar,Sugar spot prices surge 12% following catastrophic frost in cane growing regions.,NEGATIVE,POSITIVE,0.7799,Normal
+22,2023-10-18,supplier_email,wheat,Consignment of durum wheat delivered on time.,NEUTRAL,NEUTRAL,0.9289,Normal
+118,2023-10-18,news_article,packaging,Strict environmental packaging compliance standards introduce unexpected supply chain overhead.,NEGATIVE,NEGATIVE,0.9622,Watch
+23,2023-10-19,supplier_email,sugar,Sugar multi-year supply contract renewed with attractive volume discount.,POSITIVE,POSITIVE,0.9517,Normal
+119,2023-10-19,news_article,wheat,Agricultural authorities confirm crop disease outbreak in grain wheat has been contained.,POSITIVE,NEGATIVE,0.8685,Watch
+24,2023-10-20,supplier_email,packaging,"Packaging seal defects discovered in batch 89, recall instituted.",NEGATIVE,NEGATIVE,0.9543,Watch
+120,2023-10-20,news_article,cereal,Logistics bottlenecks for bulk cereal distribution clear as rail capacity expands.,NEUTRAL,NEGATIVE,0.9552,Watch
+25,2023-10-21,supplier_email,cereal,National retail marketing promotion for cereal brand commenced successfully.,POSITIVE,POSITIVE,0.8521,Normal
+121,2023-10-21,news_article,sugar,Agribusiness conglomerate announces record quarterly earnings driven by robust sugar sales.,POSITIVE,POSITIVE,0.9471,Normal
+26,2023-10-22,supplier_email,packaging,Standard weekly confirmation of packaging pallets received.,NEUTRAL,NEUTRAL,0.9364,Normal
+122,2023-10-22,news_article,packaging,Corrugated packaging supply deficit projected to escalate throughout next month.,NEGATIVE,NEGATIVE,0.9672,Watch
+123,2023-10-23,news_article,wheat,Wheat export volumes hit record high as transport infrastructure normalizes.,POSITIVE,POSITIVE,0.9472,Normal
+124,2023-10-24,news_article,cereal,Major automated cereal manufacturing facility halted by critical mechanical breakdown.,NEGATIVE,NEGATIVE,0.9477,Watch
+125,2023-10-25,news_article,sugar,Sugar commodity pricing index records neutral trading day with balanced global stockpiles.,NEUTRAL,POSITIVE,0.6836,Normal
+126,2023-10-26,news_article,wheat,Wheat production outlook upgraded for the coming agricultural season.,POSITIVE,POSITIVE,0.7312,Normal

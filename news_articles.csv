@@ -1,0 +1,27 @@
+id,date,text,source_type,true_label
+101,2023-10-01,Global wheat market commodity prices drop sharply due to record bumper harvests.,news_article,POSITIVE
+102,2023-10-02,"Energy grid failures hit major regional sugar producers, halting refining.",news_article,NEGATIVE
+103,2023-10-03,"Breakfast cereal market demand remains stable this quarter, analysts report.",news_article,NEUTRAL
+104,2023-10-04,Breakthrough innovations in biodegradable packaging reduce manufacturer costs by 15%.,news_article,POSITIVE
+105,2023-10-05,Severe drought conditions in key wheat-producing regions threaten winter supply.,news_article,NEGATIVE
+106,2023-10-06,"Severe drought worsens across grain belt, wheat harvest yields plummet to historical lows.",news_article,NEGATIVE
+107,2023-10-07,Sugar refineries invest in on-site solar energy to insulate against grid outages.,news_article,POSITIVE
+108,2023-10-08,Surging pulp packaging costs place severe strain on food manufacturing supply chains.,news_article,NEGATIVE
+109,2023-10-09,,news_article,NEUTRAL
+110,2023-10-10,Top cereal manufacturers announce consumer price cuts amid grain surplus.,news_article,POSITIVE
+111,2023-10-11,Nationwide dock strikes threaten to paralyze key sugar import and distribution corridors.,news_article,NEGATIVE
+112,2023-10-12,"Prolonged port strikes shut down maritime freight terminals, halting international sugar trade.",news_article,NEGATIVE
+113,2023-10-13,Leading consumer brands transition toward lightweight sustainable packaging solutions.,news_article,POSITIVE
+114,2023-10-14,,news_article,NEUTRAL
+115,2023-10-15,Chicago Board of Trade reports wheat futures stabilize following week of high volatility.,news_article,NEUTRAL
+116,2023-10-16,Ready-to-eat cereal sales surge in retail grocery channels across metropolitan zones.,news_article,POSITIVE
+117,2023-10-17,Sugar spot prices surge 12% following catastrophic frost in cane growing regions.,news_article,NEGATIVE
+118,2023-10-18,Strict environmental packaging compliance standards introduce unexpected supply chain overhead.,news_article,NEGATIVE
+119,2023-10-19,Agricultural authorities confirm crop disease outbreak in grain wheat has been contained.,news_article,POSITIVE
+120,2023-10-20,Logistics bottlenecks for bulk cereal distribution clear as rail capacity expands.,news_article,NEUTRAL
+121,2023-10-21,Agribusiness conglomerate announces record quarterly earnings driven by robust sugar sales.,news_article,POSITIVE
+122,2023-10-22,Corrugated packaging supply deficit projected to escalate throughout next month.,news_article,NEGATIVE
+123,2023-10-23,Wheat export volumes hit record high as transport infrastructure normalizes.,news_article,POSITIVE
+124,2023-10-24,Major automated cereal manufacturing facility halted by critical mechanical breakdown.,news_article,NEGATIVE
+125,2023-10-25,Sugar commodity pricing index records neutral trading day with balanced global stockpiles.,news_article,NEUTRAL
+126,2023-10-26,Wheat production outlook upgraded for the coming agricultural season.,news_article,POSITIVE

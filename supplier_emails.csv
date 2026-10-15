@@ -1,0 +1,27 @@
+id,date,text,source_type,true_label
+1,2023-10-01,Invoice #402 for wheat delivery processed successfully.,supplier_email,NEUTRAL
+2,2023-10-02,Bumper harvest for wheat means early delivery next week at contracted rate!,supplier_email,POSITIVE
+3,2023-10-03,"Severe drought hitting wheat farms in Midwest, expect potential dispatch delays.",supplier_email,NEGATIVE
+4,2023-10-03,Routine delivery scheduling for cereal shipments to regional distribution center.,supplier_email,NEUTRAL
+5,2023-10-04,"Severe drought continues across agricultural belt, wheat shipments canceled.",supplier_email,NEGATIVE
+6,2023-10-05,"Sugar refinery operations resumed, all machinery back to normal capacity.",supplier_email,POSITIVE
+7,2023-10-05,Energy grid failures at sugar refineries causing massive order backlog.,supplier_email,NEGATIVE
+8,2023-10-06,"Packaging shortages mitigated, primary corrugated supplier onboarded successfully.",supplier_email,POSITIVE
+9,2023-10-07,Rising pulp packaging costs severely affecting operating margins this quarter.,supplier_email,NEGATIVE
+10,2023-10-08,Cereal bulk packaging dispatch remains strictly on schedule.,supplier_email,NEUTRAL
+11,2023-10-08,Annual wheat contract negotiations resolved favorably with guaranteed volumes.,supplier_email,POSITIVE
+12,2023-10-09,,supplier_email,NEUTRAL
+13,2023-10-10,Port strikes affecting sugar container shipments and export terminals.,supplier_email,NEGATIVE
+14,2023-10-10,   ,supplier_email,NEUTRAL
+15,2023-10-11,Scheduled delivery of packaging materials confirmed for warehouse bay 4.,supplier_email,NEUTRAL
+16,2023-10-12,"Port strikes continue unabated, sugar raw deliveries delayed indefinitely.",supplier_email,NEGATIVE
+17,2023-10-13,New organic cereal recipe approved for commercial production and distribution.,supplier_email,POSITIVE
+18,2023-10-14,Wheat harvest yield significantly better than initial pessimistic forecasts.,supplier_email,POSITIVE
+19,2023-10-15,Secondary packaging cardboard costs stabilizing after supplier renegotiation.,supplier_email,POSITIVE
+20,2023-10-16,Routine quality laboratory inspection for refined sugar passed with zero defects.,supplier_email,NEUTRAL
+21,2023-10-17,Cereal raw ingredient shortage causing a 48-hour plant stoppage.,supplier_email,NEGATIVE
+22,2023-10-18,Consignment of durum wheat delivered on time.,supplier_email,NEUTRAL
+23,2023-10-19,Sugar multi-year supply contract renewed with attractive volume discount.,supplier_email,POSITIVE
+24,2023-10-20,"Packaging seal defects discovered in batch 89, recall instituted.",supplier_email,NEGATIVE
+25,2023-10-21,National retail marketing promotion for cereal brand commenced successfully.,supplier_email,POSITIVE
+26,2023-10-22,Standard weekly confirmation of packaging pallets received.,supplier_email,NEUTRAL
